@@ -39,7 +39,19 @@ The application assists job seekers in:
 
 ---
 
-## 4. Git & Commit Guidelines
+## 4. Development Workflow
+
+Follow a disciplined, step-by-step development process for all tasks:
+
+- **Inspect First**: Carefully examine the existing codebase, file structures, and surrounding context before writing or modifying code.
+- **Stay Focused**: Keep changes strictly focused on the requested task and avoid modifying unrelated files or introducing out-of-scope refactors.
+- **Small, Reviewable Changes**: Prefer incremental, modular, and easily reviewable units of work over massive monolithic diffs.
+- **Run Relevant Checks**: Execute all relevant checks (type checks, linter, tests, and build verification) before considering a task complete.
+- **Follow Conventional Commits**: Maintain a clean, standardized git history adhering to the Conventional Commits specification.
+
+---
+
+## 5. Git & Commit Guidelines
 
 - Adhere to the [Conventional Commits](https://www.conventionalcommits.org/) standard:
   - `feat:` A new feature
