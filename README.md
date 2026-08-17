@@ -60,7 +60,7 @@ Built following modern frontend engineering and AI UX best practices:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<owner>/FE-01.git
+git clone https://github.com/lalman-dev/FE-01.git
 cd FE-01
 
 # Install dependencies (upon project initialization)
