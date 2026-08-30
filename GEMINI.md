@@ -1,18 +1,18 @@
-# ApplyPilot – AI Development Guidelines
+# Professional Frontend Engineering Portfolio – AI Development Guidelines
 
-This document outlines instructions and engineering principles for AI assistants and developers collaborating on the **ApplyPilot** repository.
+This document outlines instructions and engineering principles for AI assistants and developers collaborating on this **Frontend Engineering Portfolio** repository.
 
 ---
 
 ## 1. Project Context & Purpose
 
-**ApplyPilot** is an AI-powered job application copilot built as the capstone project for the **FlyRank Frontend AI Engineering** track.
+This repository houses the personal professional portfolio for **Lalman Chaudhary**, Frontend Engineer specializing in AI-assisted frontend products and disciplined AI engineering workflows.
 
-The application assists job seekers in:
-- Analyzing job descriptions to extract key skills and requirements.
-- Matching candidate profiles to target roles with alignment scoring.
-- Generating tailored resumes, cover letters, and application answers.
-- Organizing and managing the overall application workflow and pipeline.
+### Core Proof Statement:
+> *"I build practical, AI-assisted frontend products that turn real problems into clear, usable experiences — combining modern frontend engineering with disciplined AI workflows."*
+
+### Primary Portfolio Goal:
+To demonstrate credible, production-grade frontend engineering ability through concrete projects, in-depth case studies, verifiable metrics, and disciplined development workflows.
 
 ---
 
