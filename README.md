@@ -1,44 +1,27 @@
-# ApplyPilot 🚀
+# Lalman Chaudhary — Frontend Engineering & AI Workflows Portfolio 💼
 
-> **FlyRank Frontend AI Engineering Capstone Project**  
-> An intelligent, AI-powered job application copilot designed to streamline candidate profiling, match alignment, tailored collateral generation, and end-to-end application workflow management.
-
----
-
-## 🎯 Purpose & Value Proposition
-
-Job seekers often struggle with repetitive application workflows, generic resume submissions, and fragmented tracking across multiple job boards. **ApplyPilot** transforms the job hunt from a disjointed manual chore into a guided, high-conversion workflow.
-
-Unlike generic chat assistants or static spreadsheets, ApplyPilot combines structured profile management with specialized AI analysis to:
-- **Deconstruct Job Descriptions**: Instantly extract tech stacks, core qualifications, soft skills, and role seniority.
-- **Calculate Fit & Alignment**: Provide transparent compatibility scoring with actionable gap analysis before applying.
-- **Generate Targeted Collateral**: Craft bespoke, ATS-friendly resumes, personalized cover letters, and curated application Q&A responses tailored to specific job postings.
-- **Centralize Application Pipeline**: Track application states from discovery to offer within an intuitive management dashboard.
+> **Proof Statement**: *"I build practical, AI-assisted frontend products that turn real problems into clear, usable experiences — combining modern frontend engineering with disciplined AI workflows."*
 
 ---
 
-## 🏗️ Planned Tech Stack & Architecture
+## 🎯 Purpose & Strategy
 
-Built following modern frontend engineering and AI UX best practices:
+This portfolio is engineered to demonstrate credible frontend engineering competence through concrete projects, rigorous case studies, verifiable metrics, and disciplined AI-assisted development workflows.
 
-- **Framework**: [Next.js](https://nextjs.org/) (App Router, React Server Components first)
-- **UI Library**: [React](https://react.dev/) with [TypeScript](https://www.typescriptlang.org/) (Strict Mode)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Component System**: [shadcn/ui](https://ui.shadcn.com/) & Radix UI primitives
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **AI Integration**: Structured prompt pipelines and streaming generation for interactive application drafting
+### Core Principles
+1. **Clarity Over Decoration**: Clean typography, high information density, zero gratuitous animations or distraction.
+2. **Evidence Over Claims**: Every capability assertion is backed by architecture breakdowns, live demos, benchmarks, or git history drills.
+3. **Optimized for High-Signal Review**: Built for engineering leaders, founders, and hiring managers who need to evaluate architectural judgment and code quality in under 2 minutes.
 
 ---
 
-## 🛣️ Capstone Milestone Roadmap
+## 🏗️ Tech Stack
 
-| Milestone | Stage | Focus Area |
-| :--- | :--- | :--- |
-| **FE-01** | *Current* | Repository initialization, baseline architecture, and design system setup |
-| **FE-02** | *Upcoming* | Candidate profile store & job description parsing engine |
-| **FE-03** | *Upcoming* | AI alignment scoring, gap visualizer, and tailored collateral generator |
-| **FE-04** | *Upcoming* | Application pipeline tracking board and export utilities |
-| **FE-05** | *Upcoming* | Performance optimization, accessibility audit, and final polish |
+- **Framework**: Next.js 16 (App Router, RSC-first)
+- **UI Library**: React 19 + TypeScript (Strict Mode)
+- **Styling**: Tailwind CSS v4
+- **Icons**: Lucide React
+- **Deployment**: Vercel / Static Export capable
 
 ---
 
